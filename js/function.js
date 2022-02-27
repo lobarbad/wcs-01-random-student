@@ -68,7 +68,7 @@ function modifyStudent(id) {
                 removeAllCheckForm();
                 cancelModifyStudent()
                 refreshViewStudent();
-                refreshViewSpeeches
+                refreshViewSpeeches();
                 initRandomDrawButton();
             }
         });
